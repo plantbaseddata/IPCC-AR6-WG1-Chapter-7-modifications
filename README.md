@@ -1,3 +1,6 @@
+# Important: This repository is a fork from https://github.com/IPCC-WG1/Chapter-7. Various codes could have been modified from the original repository. Please follow the instructions below (from the original repository) to set up the environment to run the calculations.
+
+
 # IPCC AR6 WG1 Chapter 7 and friends multi-purpose repository
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5211357.svg)](https://doi.org/10.5281/zenodo.5211357)
